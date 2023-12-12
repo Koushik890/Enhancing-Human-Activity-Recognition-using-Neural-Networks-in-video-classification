@@ -14,11 +14,7 @@ Meow! Welcome to the Human Action Recognition project. This project uses a combi
 ## How to Run This Project 😼
 
 1. Clone this repository: `git clone <repository-url>`
-2. Install the necessary libraries and dependencies using pip: 
-    ```bash
-    pip install -r requirements.txt
-    ```
-3. Run the Jupyter notebook: `jupyter notebook Human_Action_Recogntion_using_CNN_+_LSTM.ipynb`
+2. Run the Jupyter notebook: `jupyter notebook Human_Action_Recogntion_using_CNN_+_LSTM.ipynb`
 
 ## Project Structure 🐱
 
