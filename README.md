@@ -13,7 +13,7 @@ Meow! Welcome to the Human Action Recognition project. This project uses a combi
 
 ## How to Run This Project 😼
 
-1. Clone this repository: `git clone <repository-url>`
+1. Clone this repository: `git clone https://github.com/Koushik890/Enhancing-Human-Activity-Recognition-using-Neural-Networks-in-video-classification`
 2. Run the Jupyter notebook: `jupyter notebook Human_Action_Recogntion_using_CNN_+_LSTM.ipynb`
 
 ## Project Structure 🐱
